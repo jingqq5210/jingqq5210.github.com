@@ -4,7 +4,7 @@
   <title><![CDATA[豆豆猫]]></title>
   <link href="http://jingqq5210.github.com/atom.xml" rel="self"/>
   <link href="http://jingqq5210.github.com/"/>
-  <updated>2012-08-02T00:20:27+08:00</updated>
+  <updated>2012-08-02T00:46:54+08:00</updated>
   <id>http://jingqq5210.github.com/</id>
   <author>
     <name><![CDATA[dodocat]]></name>
@@ -12,6 +12,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第一篇测试文章]]></title>
+    <link href="http://jingqq5210.github.com/blog/2012/08/02/di-%5B%3F%5D-pian-ce-shi-wen-zhang/"/>
+    <updated>2012-08-02T00:42:00+08:00</updated>
+    <id>http://jingqq5210.github.com/blog/2012/08/02/di-[?]-pian-ce-shi-wen-zhang</id>
+    <content type="html"><![CDATA[<h1>markdown是个好语法</h1>
+
+<p>使用markdown写博客真是装逼效果极好的。</p>
+
+<p>分个段试试</p>
+
+<h2>标题二写点啥呢？</h2>
+
+<p>测试一下吧</p>
+
+<h2>再来一个标题二</h2>
+
+<p>发布试试吧</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Hello]]></title>
